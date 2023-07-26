@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times new roman';
+}
+body{
+    margin: 0;
+    padding: 0;
+    background : #000;
+    
+}
+span{
+    background : linear-gradient(to right,#ff105f,#ffad06);
+    -webkit-background-clip:text;
+    color : transparent;
+}
+
+
+.container{
+ width: 360px;
+ height: 480px;
+ margin: 8% auto;
+ background: black;
+ color: white;
+ border-radius: 15px;
+ border: 1px solid white;
+ position: relative;
+}
+
+
+
+h3{
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 20px;
+    
+}
+
+.container form{
+    width: 280px;
+    position: absolute;
+    top: 50px;
+    left: 40px;
+   
+}
+
+
+#gm{
+    width: 100%;
+    padding: 10px,5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid #ad1deb;
+    outline: none;
+    color: white;
+    background-color: transparent;
+}
+#pid{
+    width: 100%;
+    padding: 10px,5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid #ad1deb;
+    outline: none;
+    color: white;
+    background-color: transparent;
+}
+
+#ab{
+    width: 100%;
+    padding: 10px,5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid #ad1deb;
+    outline: none;
+    color: white;
+    background-color: transparent;
+}
+#pt{
+    width: 100%;
+    padding: 10px,5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid #ad1deb;
+    outline: none;
+    color: white;
+    background-color: transparent;
+}
+
+#dm{
+    width: 100%;
+    padding: 10px,5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid #ad1deb;
+    outline: none;
+    color: white;
+    background-color: transparent;
+}
+
+#tch{
+    width: 100%;
+    padding: 10px,5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid #ad1deb;
+    outline: none;
+    color: white;
+    background-color: transparent;
+}
+#spn{
+    width: 100%;
+    padding: 10px,5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid #ad1deb;
+    outline: none;
+    color: white;
+    background-color: transparent;
+}
+
+::placeholder{
+    color: white;
+}
+

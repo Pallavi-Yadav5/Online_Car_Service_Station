@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman';
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+select{
+    color: #fff;
+}
+.class{
+    color: white;
+}
+
+
+
+
+h3{
+    text-align: center;
+    margin-bottom: 40px;
+    color: white;
+}
+
+
+
+span
+{
+	background : linear-gradient(to right,#ff105f,#ffad06);
+	-webkit-background-clip:text;
+	color : transparent;
+}
+
+
+#email{
+    width: 100%;
+    padding: 10px,5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid white;
+    outline: none;
+    color: #fff;
+    background-color: transparent;
+}
+#fn{
+    width: 100%;
+    padding: 10px,5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid white;
+    outline: none;
+    color: #fff;
+    background-color: transparent;
+}
+
+#uname{
+    width: 100%;
+    padding: 10px,5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid white;
+    outline: none;
+    color: #fff;
+    background-color: transparent;
+}
+#pass{
+    width: 100%;
+    padding: 10px,5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid white;
+    outline: none;
+    color: #fff;
+    background-color: transparent;
+}
+
+#cn{
+    width: 100%;
+    padding: 10px,5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid white;
+    outline: none;
+    color: #fff;
+    background-color: transparent;
+}
+
+
+
+
+::placeholder{
+    color: white;
+}
+

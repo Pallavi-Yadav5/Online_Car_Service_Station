@@ -1,0 +1,39 @@
+.Service-box1
+{
+	box-shadow : 0 0 4px 0;
+	padding : 5px;
+	position :relative;
+	height : 300px;
+}
+p{
+	text-align : justify;
+}
+*
+{
+     margin : 0;
+	 padding : 0;
+}
+body
+{
+	background-color : #000 !important;
+	color : #fff !important;
+}
+.services
+{
+	margin-top : 20px;
+	margin-bottom : 30px;
+}
+span
+{
+	background : linear-gradient(to right,#ff105f,#ffad06);
+	-webkit-background-clip:text;
+	color : transparent;
+}
+
+.Service-box1{
+	position : relative ;
+	height :390px;
+	box-shadow : 0 0 4px 0;
+	padding : 5px;
+
+}
